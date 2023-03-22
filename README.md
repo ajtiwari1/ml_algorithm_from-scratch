@@ -11,3 +11,14 @@ Random forest algorithm
 Dimensionality reduction algorithms
 Gradient boosting algorithm and AdaBoosting algorithm
 ```
+# Nlp algorithm
+```Rnn
+Lstm
+Transformer
+Bert
+```
+# image classification
+```
+Ann()
+Cnn
+```
