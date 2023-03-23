@@ -1,6 +1,7 @@
 # ml_algorithm_from-scratch
 # classic machine learning algorithm
-```Linear regression
+```
+Linear regression
 Logistic regression
 Decision tree
 SVM algorithm
@@ -12,7 +13,8 @@ Dimensionality reduction algorithms
 Gradient boosting algorithm and AdaBoosting algorithm
 ```
 # Nlp algorithm
-```Rnn
+```
+Rnn
 Lstm
 Transformer
 Bert
