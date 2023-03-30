@@ -3,8 +3,12 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn import datasets
 import matplotlib.pyplot as plt
+import warnings
+
+warnings.filterwarnings('ignore')
 
 def sigmoid(x):
+    
     return 1/(1+np.exp(-x))
 
 class LogisticRegression():
