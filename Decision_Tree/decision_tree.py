@@ -2,7 +2,6 @@ import numpy as np
 from sklearn import datasets
 from sklearn.model_selection import train_test_split
 import numpy as np
-from DecisionTree import DecisionTree
 from collections import Counter
 
 class Node:
@@ -132,6 +131,7 @@ if __name__=="__main__":
     clf = DecisionTree(max_depth=10)
     clf.fit(X_train, y_train)
     predictions = clf.predict(X_test)
+    print(predictions)
 
     def accuracy(y_test, y_pred):
         return np.sum(y_test == y_pred) / len(y_test)

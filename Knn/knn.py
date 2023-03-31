@@ -56,7 +56,8 @@ if __name__=="__main__":
 
     clf = KNN(k=5)
     clf.fit(X_train, y_train)
-    predictions = clf.predict(X_test)
+    predictions = clf.predict(X_test[1])
+    #print(predictions)
     acc = np.sum(predictions == y_test) / len(y_test)
     print(acc)
     plt.figure()
