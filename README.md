@@ -12,6 +12,12 @@ K-means
 Dimensionality reduction algorithms
 Gradient boosting algorithm and AdaBoosting algorithm
 ```
+# image classification
+```
+Ann
+Cnn
+```
+
 # Nlp algorithm
 ```
 Rnn
@@ -19,8 +25,4 @@ Lstm
 Transformer
 Bert
 ```
-# image classification
-```
-Ann
-Cnn
-```
+
