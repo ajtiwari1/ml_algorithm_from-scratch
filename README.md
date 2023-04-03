@@ -21,6 +21,6 @@ Bert
 ```
 # image classification
 ```
-Ann()
+Ann
 Cnn
 ```
