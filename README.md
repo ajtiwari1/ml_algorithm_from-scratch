@@ -3,12 +3,12 @@
 ```
 Linear regression
 Logistic regression
-Decision tree
-SVM algorithm
-Naive Bayes algorithm
 KNN algorithm
-K-means
+Decision tree
 Random forest algorithm
+Naive Bayes algorithm
+SVM algorithm
+K-means
 Dimensionality reduction algorithms
 Gradient boosting algorithm and AdaBoosting algorithm
 ```
